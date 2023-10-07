@@ -1,2 +1,0 @@
-'use strict';mix_d("AmazonHomepageSolitaireCards__nine-card:nine-card__1s-TLso3",["exports","tslib","@c/scoped-dom","@c/metrics"],function(d,e,a,f){var h=a&&"object"===typeof a&&"default"in a?a:{"default":a},l=function(b,k){(b=b.querySelector(".a-cardui-footer"))&&b.addEventListener("click",function(){var g=k+":seeMoreClick",c=void 0;void 0===c&&(c=1);f.count(g,+(f.count(g)||0)+c)})};d._operationNames=[];d.card=function(){return e.__awaiter(void 0,void 0,void 0,function(){return e.__generator(this,
-function(b){l(h["default"].cardRoot,"nine-card");return[2]})})}});
